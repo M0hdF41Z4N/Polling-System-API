@@ -8,5 +8,5 @@ How to Setup Project on local System
    ├── express@4.18.2<br>
    ├── mongoose@7.3.0<br>
    └── nodemon@2.0.22<br>
-   `npm install body-parser express mongoose nodemon`
+   `npm install`
 3. Run the server `nodemon index.js`
